@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-This is my personal **portfolio website** built using **React** and **Tailwind CSS**. It showcases my skills, projects, and experience as a web developer. The site is fully responsive, interactive, and built with the latest web technologies.
+This is my personal **portfolio website** built using **React** and **Tailwind CSS**. It showcases my skills, projects, and experience as a frontend web developer. The site is fully responsive, interactive, and built with the latest web technologies.
 
 ## Features
 
@@ -10,6 +10,7 @@ This is my personal **portfolio website** built using **React** and **Tailwind C
 - Showcases my **projects, skills, and work experience**.
 - Fully responsive and optimized for **desktop, tablet, and mobile devices**.
 - Uses the latest libraries and techniques for modern web development.
+- Uses of variables in the css /tailwindcss
 
 ## Technologies Used
 
